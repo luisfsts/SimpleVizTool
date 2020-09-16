@@ -1,0 +1,4 @@
+# Default ignored files
+*.code-workspace
+Pipfile
+Pipfile.lock
