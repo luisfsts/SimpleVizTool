@@ -1,5 +1,5 @@
 from flask import Flask
-from SimpleVizTool.rest import endpoints
+from rest import endpoints
 from flask_cors import CORS
 
 def create_app():

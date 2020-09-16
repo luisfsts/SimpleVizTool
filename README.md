@@ -8,9 +8,12 @@
   * flask
   * flask_cors
 
+* Node:
+  * Download and install node.js
 * Angular:
-  * node.js
-  * On a command prompt: npm install -g @angular/cli@latest
+  * Run the commands:
+    * npm install -g @angular/cli@latest
+	* npm install --save-dev @angular-devkit/build-angular
 
 * GraphViz:
   * Please check the instructions at https://pm4py.fit.fraunhofer.de/install-page#item-1-2 under the Install GraphViz section.
